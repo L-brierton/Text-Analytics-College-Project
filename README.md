@@ -1,5 +1,6 @@
 # Binh-There-Done-That
 Text Analytics Team Project
+Link to the git repository: https://github.com/L-brierton/Binh-There-Done-That
 
 Team Members:
  + Laura Brierton
