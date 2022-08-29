@@ -1,6 +1,6 @@
 # Text Analytics College Project
 Text Analytics Team Project
-Link to the git repository: https://github.com/L-brierton/Binh-There-Done-That
+Link to the git repository: https://github.com/L-brierton/Text-Analytics-College-Project
 
 Team Members:
  + Laura Brierton
