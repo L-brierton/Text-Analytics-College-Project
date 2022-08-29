@@ -1,4 +1,4 @@
-# Binh-There-Done-That
+# Text Analytics College Project
 Text Analytics Team Project
 Link to the git repository: https://github.com/L-brierton/Binh-There-Done-That
 
