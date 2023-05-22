@@ -3,7 +3,7 @@ Text Analytics Team Project
 Link to the git repository: https://github.com/L-brierton/Text-Analytics-College-Project
 
 Team Members:
- + Laura Brierton
+ + Lorcan Brierton
  + Clodagh Lalor
  + Jeremy Schiff
  + Peter Concannon
